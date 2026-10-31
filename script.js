@@ -1,7 +1,7 @@
 "use strict";
 
 // ---------- Config ----------
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://mindmetrics-student-health.onrender.com/";
 const REQUEST_TIMEOUT_MS = 20000;
 
 // Must match the Literal values in the FastAPI StudentData model exactly.
